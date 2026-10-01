@@ -1,0 +1,4 @@
+streamlit
+anthropic
+metaapi-cloud-sdk
+MetaTrader5; sys_platform == "win32"
